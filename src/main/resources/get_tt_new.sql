@@ -1,0 +1,1 @@
+SELECT * FROM test.tt_new
